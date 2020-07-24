@@ -1,6 +1,5 @@
 *.sqlite3
 *.sqlite
-.vscode/
 /*.env
 emailenv/
 emailapp/
@@ -9,3 +8,6 @@ emailapp/
 __pycache__/
 staticfiles/
 env.example
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
